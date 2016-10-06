@@ -1,6 +1,8 @@
 # 1000-servos
 Advanced Programming &amp; Electronics
 
+The video of working prototype: https://www.youtube.com/watch?v=ZebUnDfQ9Jc&feature=em-upload_owner#action=share
+
 My challenge was to make many servos work independently. I decided to use 35 servos and three drive boards 
 
 Also upload any schematics
