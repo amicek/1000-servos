@@ -1,5 +1,6 @@
 # 1000-servos
 Advanced Programming &amp; Electronics
+Aleksandra Micek
 
 The video of working prototype: https://www.youtube.com/watch?v=ZebUnDfQ9Jc&feature=em-upload_owner#action=share
 
